@@ -1,0 +1,5 @@
+print("Thank you Infosys for giving me opportunity for work with you as an AI/ML developer")
+print("I am greatful for my life")
+print("I am greatful for this day")
+print("I trust you")
+print("I believe you")
